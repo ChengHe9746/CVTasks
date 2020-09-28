@@ -55,7 +55,7 @@ def __main__():
         # Plot the positive samples
         else:
             plt.scatter(sample[0], sample[1], s=120, marker='+')
-    plt.plot([-2, 5],w[0] / w[1] * 2 - bias / w[1], w[0] / w[1] * -5 - bias / w[1]])
+    plt.plot([-2, 5], [w[0] / w[1] * 2 - bias / w[1], w[0] / w[1] * -5 - bias / w[1]])
     plt.show()
     pass
 
