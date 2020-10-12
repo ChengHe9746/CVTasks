@@ -1,0 +1,36 @@
+C:\Anaconda3\python.exe E:/zhangzizhuo/code/mnist/main.py
+mnist data loader with 1 workers...
+--------------------
+epoch: 0, loss: 0.4465, train acc: 86.0358 %
+epoch: 0, test dataset accuracy: 97.4585 %
+--------------------
+epoch: 1, loss: 0.0799, train acc: 97.4941 %
+epoch: 1, test dataset accuracy: 98.3386 %
+--------------------
+epoch: 2, loss: 0.0545, train acc: 98.3203 %
+epoch: 2, test dataset accuracy: 98.7540 %
+--------------------
+epoch: 3, loss: 0.0429, train acc: 98.6718 %
+epoch: 3, test dataset accuracy: 98.8034 %
+--------------------
+epoch: 4, loss: 0.0350, train acc: 98.8845 %
+epoch: 4, test dataset accuracy: 98.8133 %
+--------------------
+epoch: 5, loss: 0.0280, train acc: 99.1027 %
+epoch: 5, test dataset accuracy: 98.9616 %
+--------------------
+epoch: 6, loss: 0.0241, train acc: 99.2337 %
+epoch: 6, test dataset accuracy: 98.9517 %
+--------------------
+epoch: 7, loss: 0.0206, train acc: 99.3737 %
+epoch: 7, test dataset accuracy: 99.1495 %
+--------------------
+epoch: 8, loss: 0.0164, train acc: 99.4620 %
+epoch: 8, test dataset accuracy: 98.9616 %
+--------------------
+epoch: 9, loss: 0.0153, train acc: 99.4886 %
+epoch: 9, test dataset accuracy: 98.9913 %
+Final Test dataset accuracy: 98.9913 %
+Best Test dataset accuracy: 99.1495 %
+
+Process finished with exit code 0
